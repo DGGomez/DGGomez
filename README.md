@@ -23,5 +23,7 @@ I'm a software developer trying to learn as much as I can
   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/downramp) 
 
+![](./profile-3d-contrib/profile-green-animate.svg)
+
 You can find my resume in this repo as well
   
