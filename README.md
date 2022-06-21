@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # About Me :
-I'm a software developer trying to learn as much as I can
+I'm a software developer trying to learn as much as I can. Learn more about me here ![](https://dggomez.github.io/)
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dgomez1/) 
