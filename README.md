@@ -8,7 +8,7 @@ I'm a software developer trying to learn as much as I can. Learn more about me h
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC32xY3FUupnXwGbn64KOArQ) 
 
-My other github account
+My other github account:<br/>
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://github.com/DownRamp) 
 
 # 💻Tech Stack
